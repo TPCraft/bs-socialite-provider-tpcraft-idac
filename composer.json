@@ -1,0 +1,18 @@
+{
+    "name": "tpcraft/bs-socialite-provider-tpcraft-idac",
+    "description": "TPCraftIDAC OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "LF_Mcxixif_",
+        "email": "2398441549@qq.com"
+    }],
+    "require": {
+        "php": "^7.2|^8",
+        "socialiteproviders/manager": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TPCraft\\BsSocialiteProviderTPCraftIDAC\\": ""
+        }
+    }
+}
